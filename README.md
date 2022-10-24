@@ -14,5 +14,7 @@ LiquidCrystal Arduino library for I2C LCD displays:
 •	G. A. Leonov, S. A. Zegzhda, S. M. Zuev and B. A. Ershov, “Dynamics and Control of the Stewart Platform,” October 2014. Available: https://www.researchgate.net/publication/289261796_Dynamics_and_Control_of_the_Stewart_Platform
 
 
-![General view of build platform] (generalView.png)
+![cad_model.png](https://github.com/MichalP574/stewartPlatformArduino/blob/main/cad_model.png)
+
+![generalView.png](https://github.com/MichalP574/stewartPlatformArduino/blob/main/generalView.png)
 
